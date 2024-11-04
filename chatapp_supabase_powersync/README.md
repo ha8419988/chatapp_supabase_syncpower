@@ -1,3 +1,2 @@
-# chatapp_supabase_powersync
-
-A new Flutter project.
+# chatapp_supabase_syncpower
+# flutter-dart
