@@ -1,0 +1,1 @@
+# chatapp_supabase_syncpower
